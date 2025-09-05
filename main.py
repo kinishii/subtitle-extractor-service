@@ -9,7 +9,7 @@ from googleapiclient.http import MediaIoBaseDownload, MediaFileUpload
 app = FastAPI()
 
 # !! IMPORTANTE !! Substitua pelo ID da sua pasta de destino
-OUTPUT_FOLDER_ID = 'SEU_ID_DA_PASTA_MEET_SUBTITLES' 
+OUTPUT_FOLDER_ID = '17bZbdSmshzqLuCcpTWuWwiwyzmbLLD3G' 
 
 def get_drive_service():
     """
